@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+
+/* positioning and styling main game board*/
+
+body {
+    height: 65vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0
+}
+
+.main {
+    color: #FF2D00;
+}

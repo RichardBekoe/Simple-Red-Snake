@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0
+}
+
+.grid {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid grey;
+    width: 800px;
+    height: 800px;
+    flex-wrap: wrap;
+}
+
+.cell {
+    width: 5%;
+    height: 5%;
+    border: 1px solid green;
+}
+
+.snake {
+    background-color: blue;
+    background-size: contain;
+}
