@@ -1,5 +1,7 @@
 # Simple Red Snake Game - Project 1
 
+![Snake Game](./snake-screenshot.png)
+
 ## Contents
 
 - [Contents](#contents)
