@@ -12,9 +12,9 @@
   - [HTML](#html)
   - [CSS](#css)
   - [JAVASCRIPT](#javascript)
-- [Key Learnings](#key-learnings)
+- [Achievements and Key Learnings](#achievements-and-key-learnings
 - [Conclusions](#conclusions)
-- [Bugs](#bugs)
+- [Bugs and Challenges](#bugs-and-challenges)
 
 ## Brief
 You have the chance to create a game, working through some tough programming challenges. You will be working individually on this project. Your application must render a game in the browser and design logic for game progression. Include separate HTML, CSS, JavaScript files and use Javascript for DOM manipulation (use semantic markup for HTML and CSS). The game project should also be deployed online.
@@ -140,7 +140,7 @@ body {
 
 Link - [Referenced Code](https://github.com/RichardBekoe/Simple-Red-Snake/blob/master/snake.js)
 
-## Key Learnings
+## Achievements and Key Learnings
 
 The skills involved included breaking the project down into different components(data, presentation, views, style, DOM manipulation) and brainstorming each component individually. I actively practiced the use Web Development Tools (console.log, inspector, alert statements, etc) to debug and solve problems. In order to implement the game logic it was important to understand all of the rules of the game. The task also helped me practice the skill of planning a project, including develivering an MVP product, before further developing extra features.
 
@@ -148,7 +148,7 @@ The skills involved included breaking the project down into different components
 
 I believe that I delivered a product of value to the end user. The functional game entertains a modest, simple design, allows a user to keep score and provides a straightforward goal for a user to strive towards achievement of a high score - overall establishing an attractive, fun product experience.
 
-## Bugs
+## Bugs and Challenges
 
 An unintended game bug is that when the snake is moving in a certain direction, then the arrow key pressed in the opposite direction, the snake collides on itself straight away; instead this opposite key should ideally be disabled during this time.
 
