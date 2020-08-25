@@ -14,6 +14,7 @@
 - [Conclusions](#conclusions)
 
 ## Brief
+You have the chance to create a game, working through some tough programming challenges. You will be working individually on this project. Your application must render a game in the browser and design logic for game progression. Include separate HTML, CSS, JavaScript files and use Javascript for DOM manipulation (use semantic markup for HTML and CSS). The game project should also be deployed online.
 
 
 ## Approach
