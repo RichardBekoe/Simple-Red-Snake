@@ -17,7 +17,8 @@
 
 
 ## Approach
-
+For the first General Assemmly Softare Engineering project I decided to implement the creation of the original game of Snake, while integrating my own features and style when possible.
+During the project I consulted documentation and researched the appropriate resources when required. I also received project feedback which I reflected and acted upon during and after the project to improve my skills further.
 
 ## Technologies Used
 - HTML
