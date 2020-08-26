@@ -12,7 +12,7 @@
   - [HTML](#html)
   - [CSS](#css)
   - [JAVASCRIPT](#javascript)
-- [Achievements and Key Learnings](#achievements-and-key-learnings
+- [Achievements and Key Learnings](#achievements-and-key-learnings)
 - [Conclusions](#conclusions)
 - [Bugs and Challenges](#bugs-and-challenges)
 
