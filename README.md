@@ -17,11 +17,11 @@
 - [Bugs and Challenges](#bugs-and-challenges)
 
 ## Brief
-You have the chance to create a game, working through some tough programming challenges. You will be working individually on this project. Your application must render a game in the browser and design logic for game progression. Include separate HTML, CSS, JavaScript files and use Javascript for DOM manipulation (use semantic markup for HTML and CSS). The game project should also be deployed online.
+You have the chance to create a game, working through some tough programming challenges. You will be working individually on this project. Your application must render a game in the browser and design logic for game progression. Include separate HTML, CSS, JavaScript files and use JavaScript for DOM manipulation (use semantic mark-up for HTML and CSS). The game project should also be deployed online.
 
 
 ## Approach
-For the first General Assemmly Softare Engineering project I decided to implement the creation of the original game of Snake, while integrating my own features and style when possible. Snake is a single-player game where the player earns points by guiding the snake to eat food randomly placed on the game board. The project timeeline was 1 week in total; this involved initial planning at the beginning of the week which included solving how the user could move the snake object. This later progressed into thinking about how to increase the snake's length upon interacting with other gameboard objects. During the project I consulted documentation and researched the appropriate resources when required. I also received project feedback which I reflected and acted upon during and after the project to improve my skills further.
+For the first General Assembly Software Engineering project I decided to implement the creation of the original game of Snake, while integrating my own features and style when possible. Snake is a single-player game where the player earns points by guiding the snake to eat food randomly placed on the game board. The project timeline was 1 week in total; this involved initial planning at the beginning of the week which included solving how the user could move the snake object. This later progressed into thinking about how to increase the snake's length upon interacting with other gameboard objects. During the project I consulted documentation and researched the appropriate resources when required. I also received project feedback which I reflected and acted upon during and after the project to improve my skills further.
 
 ## Technologies Used
 - HTML
@@ -142,7 +142,7 @@ Link - [Referenced Code](https://github.com/RichardBekoe/Simple-Red-Snake/blob/m
 
 ## Achievements and Key Learnings
 
-The skills involved included breaking the project down into different components(data, presentation, views, style, DOM manipulation) and brainstorming each component individually. I actively practiced the use Web Development Tools (console.log, inspector, alert statements, etc) to debug and solve problems. In order to implement the game logic it was important to understand all of the rules of the game. The task also helped me practice the skill of planning a project, including develivering an MVP product, before further developing extra features.
+The skills involved included breaking the project down into different components(data, presentation, views, style, DOM manipulation) and brainstorming each component individually. I actively practiced the use Web Development Tools (console.log, inspector, alert statements, etc) to debug and solve problems. In order to implement the game logic it was important to understand all of the rules of the game. The task also helped me practice the skill of planning a project, including delivering an MVP product, before further developing extra features.
 
 ## Conclusions
 
