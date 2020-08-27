@@ -142,7 +142,7 @@ Link - [Referenced Code](https://github.com/RichardBekoe/Simple-Red-Snake/blob/m
 
 ## Achievements and Key Learnings
 
-The skills involved included breaking the project down into different components(data, presentation, views, style, DOM manipulation) and brainstorming each component individually. I actively practiced the use Web Development Tools (console.log, inspector, alert statements, etc) to debug and solve problems. In order to implement the game logic it was important to understand all of the rules of the game. The task also helped me practice the skill of planning a project, including delivering an MVP product, before further developing extra features.
+The skills involved included breaking the project down into different components (data, presentation, views, style, DOM manipulation) and brainstorming each component individually. I actively practiced the use Web Development Tools (console.log, inspector, alert statements, etc) to debug and solve problems. In order to implement the game logic, it was important to understand all of the rules of the game. The task also helped me practice the skill of planning a project, including delivering an MVP product, before further developing extra features.
 
 ## Conclusions
 
